@@ -1,4 +1,4 @@
-# 📚 Data Structures & Algorithms with LeetCode – 6 Weeks Roadmap
+# 📚 Mastering Data Structures & Algorithms with LeetCode – 6 Weeks Roadmap
 
 Welcome to our 6-week journey of solving **Data Structures & Algorithms (DSA)** with hands-on LeetCode practice! 🚀  
 This repo is a **roadmap + resource hub** where you’ll find:  
